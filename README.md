@@ -14,9 +14,10 @@ Vorbereitung: Installation von Visual Studio und Einrichtung der Entwicklungsumg
 Eingabe: Erstellung eines leeren C#-Konsolenanwendungsprojekts.
 Erwartete Ausgabe: Ein einfaches C#-Konsolenprojekt ist erstellt.
 Erfüllt: Nein
+
 Arbeitspakete für 27.10.2023:
 
- Einen Kursnamen von Benutzern in der Konsolenanwendung eingeben und speichern.
+Einen Kursnamen von Benutzern in der Konsolenanwendung eingeben und speichern.
 Nummer: 2
 Vorbereitung: Grundlegende Recherche zur Benutzereingabe in C#.
 Eingabe: Implementierung eines Mechanismus zum Speichern eines eingegebenen Kursnamens.
