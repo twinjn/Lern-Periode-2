@@ -13,7 +13,7 @@ Nummer: 1
 Vorbereitung: Installation von Visual Studio und Einrichtung der Entwicklungsumgebung.
 Eingabe: Erstellung eines leeren C#-Konsolenanwendungsprojekts.
 Erwartete Ausgabe: Ein einfaches C#-Konsolenprojekt ist erstellt.
-Erfüllt: Nein
+
 Arbeitspakete für 27.10.2023:
 
  Einen Kursnamen von Benutzern in der Konsolenanwendung eingeben und auf der Konsole ausgeben.
