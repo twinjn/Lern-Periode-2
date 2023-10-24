@@ -22,4 +22,4 @@ Vorbereitung: Grundlegende Recherche zur Benutzereingabe in C#.
 Eingabe: Implementierung eines Mechanismus zum Speichern und Anzeigen eines eingegebenen Kursnamens.
 Erwartete Ausgabe: Die Anwendung kann einen Kursnamen speichern und auf der Konsole anzeigen.
 Erfüllt: Nein
-Diese Ziele sind sehr einfach und sollen Anfängern den Einstieg in die C#-Programmierung erleichtern. Du kannst in deinem eigenen Tempo voranschreiten und dich nach Bedarf weiterentwickeln. Denke daran, Fragen zu stellen und Tutorials oder Ressourcen zu nutzen, um dir bei deinem Lernprozess zu helfen.
+Diese Ziele sind sehr einfach und sollen für mich den Einstieg in die C#-Programmierung erleichtern. Du kannst in deinem eigenen Tempo voranschreiten und dich nach Bedarf weiterentwickeln. 
