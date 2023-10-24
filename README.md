@@ -8,11 +8,8 @@ In meinem zweiten Projekt, "My Learning App," möchte ich C# als Anfänger kenne
 
 Arbeitspakete für 20.10.2023:
 
- Ein neues C#-Konsolenanwendungsprojekt erstellen.
-Nummer: 1
-Vorbereitung: Installation von Visual Studio und Einrichtung der Entwicklungsumgebung.
-Eingabe: Erstellung eines leeren C#-Konsolenanwendungsprojekts.
-Erwartete Ausgabe: Ein einfaches C#-Konsolenprojekt ist erstellt.
+Modul 431 noch fertig machen
+
 
 Arbeitspakete für 27.10.2023:
 
