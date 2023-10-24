@@ -1,22 +1,17 @@
-Grob-Planung - Projektname: "My Learning App"
+Projektname: "Einfache C# Spieleentwicklung"
 
 Lern-Periode-2
 20.10.2023 bis 22.12.2023 (🎄 Weihnachtsferien)
 
 Leit-Satz (100 Wörter):
-In meinem zweiten Projekt, "My Learning App," möchte ich C# als Anfänger kennenlernen. Ich werde eine sehr einfache Lernanwendung entwickeln, die es mir ermöglicht, Kursnamen zu notieren. Diese Anwendung soll mir beim Erlernen grundlegender Programmierkonzepte in C# helfen. Ich werde mich darauf konzentrieren, die Grundlagen der Konsolenanwendungsentwicklung zu verstehen, Benutzereingaben zu verarbeiten und einfache Ausgaben zu erzeugen. Durch dieses Projekt hoffe ich, meine Programmierfähigkeiten zu stärken und eine solide Grundlage für zukünftige C#-Projekte zu legen. Ich erwarte, dass ich am Ende dieses Projekts in der Lage bin, einfache Konsolenanwendungen in C# zu erstellen und grundlegende Benutzereingaben zu verarbeiten.
+In meinem zweiten Projekt, "Einfache C# Spieleentwicklung," möchte ich meine C#-Programmierkenntnisse vertiefen, indem ich mich auf die Erstellung von einfachen Spielen konzentriere. Mein Ziel ist es, grundlegende Spiele in C# zu entwickeln, um ein besseres Verständnis für Programmierung, Logik und Algorithmen zu gewinnen. Dabei werde ich Spiele wie Schach, Tic-Tac-Toe oder Pong erstellen, um die Konzepte zu festigen. Dieses Projekt ermöglicht mir, auf spielerische Weise mein Wissen zu erweitern und die Freude an der Programmierung zu erleben.
 
 Arbeitspakete für 20.10.2023:
-
-Modul 431 noch fertig machen
-
+1. Wiederholung der grundlegenden C#-Konzepte und Einrichtung der Entwicklungsumgebung.
+2. Modul 431 abschliessen
+   
 
 Arbeitspakete für 27.10.2023:
-
- Einen Kursnamen von Benutzern in der Konsolenanwendung eingeben und auf der Konsole ausgeben.
-Nummer: 2
-Vorbereitung: Grundlegende Recherche zur Benutzereingabe in C#.
-Eingabe: Implementierung eines Mechanismus zum Speichern und Anzeigen eines eingegebenen Kursnamens.
-Erwartete Ausgabe: Die Anwendung kann einen Kursnamen speichern und auf der Konsole anzeigen.
-Erfüllt: Nein
-Diese Ziele sind sehr einfach und sollen für mich den Einstieg in die C#-Programmierung erleichtern. Du kannst in deinem eigenen Tempo voranschreiten und dich nach Bedarf weiterentwickeln. 
+1. Auswahl des ersten Spiels (z. B. Tic-Tac-Toe) und Entwurf eines Spielplans.
+2. Umsetzung des ausgewählten Spiels in C# unter Verwendung von einfachen Algorithmen.
+3. Testen und Debuggen des Spiels, um sicherzustellen, dass es reibungslos funktioniert.
