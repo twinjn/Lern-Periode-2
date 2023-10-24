@@ -8,8 +8,10 @@ In meinem zweiten Projekt, "Einfache C# Spieleentwicklung," möchte ich meine C#
 
 Arbeitspakete für 20.10.2023:
 1. Wiederholung der grundlegenden C#-Konzepte und Einrichtung der Entwicklungsumgebung.
-2. Modul 431 abschliessen
-   
+2. Modul 431 abschliessen (2 Lektionen)
+
+Reflexion
+Ich habe mich mit paar Videos zusammengefasst um grössere Anspruche für nächstes Mal zu programmieren. Dazu habe ich noch an dem Modul 431 gearbeitet. Ich habe noch die letzten 2 Arbeitspakete erledigt und dadurch hatte ich keine Zeit mehr für die 3 Arbeitspaket.
 
 Arbeitspakete für 27.10.2023:
 1. Auswahl des ersten Spiels (z. B. Tic-Tac-Toe) und Entwurf eines Spielplans.
