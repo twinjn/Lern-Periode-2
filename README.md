@@ -24,3 +24,13 @@ Heute habe ich das Spiel Tic-Tac-Toe ausgewählt, den Spielplan entworfen, das S
 Arbeitspakete für 07.11.2023
 1. Ein Video über Visuell Studio, der mir alle Grundlagen bis Fortgeschritten beibringt, da wir homeschooling haben. (2-3 Stunden)
 2. Anwenden des Videos und bsp testen.
+
+Reflexion
+Heute habe ich ein langes Video über Visual Studio angesehen und danach praktische Beispiele getestet. Ich habe viel gelernt und fühle mich bereit, meine neuen Kenntnisse in der Schule anzuwenden. Ich plane, regelmäßig zu üben, um meine Fähigkeiten zu verbessern.
+
+Arbeitspakete für 14.11.2023
+1.Ich werde eine C#-Anwendung programmieren, die alle Primzahlen zwischen 1 und einer vom Benutzer festgelegten Obergrenze findet und ausgibt. Dies umfasst die Eingabe einer Obergrenze durch den Benutzer, das Durchlaufen aller Zahlen von 2 bis zur Obergrenze und die Überprüfung, ob jede Zahl eine Primzahl ist. Gefundene Primzahlen werde ich ausgeben.
+
+2.Nachdem ich erfolgreich Primzahlen gefunden habe, werde ich meiner Anwendung die Fähigkeit hinzufügen, die Primfaktorzerlegung für eine vom Benutzer eingegebene Zahl zu berechnen. Dies erfordert das Identifizieren der Primfaktoren einer Zahl und das Ausgeben dieser Faktoren.
+
+3.Um die Benutzerfreundlichkeit meiner Anwendung zu erhöhen, werde ich eine einfache Benutzeroberfläche hinzufügen. Dies ermöglicht es Benutzern, die Obergrenze für die Primzahlen und die zu zerlegende Zahl interaktiv einzugeben. Die Ausgabe wird in einem ansprechenden Format angezeigt.
