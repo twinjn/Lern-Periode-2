@@ -37,6 +37,6 @@ Reflexion
 Die Entwicklung der C#-Anwendung zur Primzahlfindung und Primfaktorzerlegung war lehrreich und stärkte meine Programmierkenntnisse. Die Strukturierung der Arbeitspakete und Tests förderten einen effizienten Prozess. Als nächster Schritt plane ich, die Anwendung zu optimieren und zu erweitern.
 
 Arbeitspakete für 21.11.2023
-Erstellung eines einfachen Quizspiels in C#, das dem Benutzer Fragen stellt und die Antworten bewertet.
-Implementierung von Punktevergabe und Feedback für den Benutzer basierend auf seinen Quizantworten.
-Integration von Soundeffekten oder visuellen Elementen, um die Benutzererfahrung im Quizspiel zu verbessern.
+1.  Erstellung eines einfachen Quizspiels in C#, das dem Benutzer Fragen stellt und die Antworten bewertet.
+2.  Implementierung von Punktevergabe und Feedback für den Benutzer basierend auf seinen Quizantworten.
+3.  An dem Modul 162 weiterarbeiten.
