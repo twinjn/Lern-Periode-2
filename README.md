@@ -32,3 +32,11 @@ Arbeitspakete für 14.11.2023
 1.  Ich werde eine C#-Anwendung programmieren, die alle Primzahlen zwischen 1 und einer vom Benutzer festgelegten Obergrenze findet und ausgibt. Dies umfasst die Eingabe einer Obergrenze durch den Benutzer, das Durchlaufen aller Zahlen von 2 bis zur Obergrenze und die Überprüfung, ob jede Zahl eine Primzahl ist. Gefundene Primzahlen werde ich ausgeben.
 2.  Nachdem ich erfolgreich Primzahlen gefunden habe, werde ich meiner Anwendung die Fähigkeit hinzufügen, die Primfaktorzerlegung für eine vom Benutzer eingegebene Zahl zu berechnen. Dies erfordert das Identifizieren der Primfaktoren einer Zahl und das Ausgeben dieser Faktoren.
 3. An dem Arbeitspaket 162 weiterschaffen und die gegebenen Aufgaben abschliessen.
+
+Reflexion
+Die Entwicklung der C#-Anwendung zur Primzahlfindung und Primfaktorzerlegung war lehrreich und stärkte meine Programmierkenntnisse. Die Strukturierung der Arbeitspakete und Tests förderten einen effizienten Prozess. Als nächster Schritt plane ich, die Anwendung zu optimieren und zu erweitern.
+
+Arbeitspakete für 21.11.2023
+Erstellung eines einfachen Quizspiels in C#, das dem Benutzer Fragen stellt und die Antworten bewertet.
+Implementierung von Punktevergabe und Feedback für den Benutzer basierend auf seinen Quizantworten.
+Integration von Soundeffekten oder visuellen Elementen, um die Benutzererfahrung im Quizspiel zu verbessern.
