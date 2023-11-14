@@ -31,4 +31,4 @@ Heute habe ich ein langes Video über Visual Studio angesehen und danach praktis
 Arbeitspakete für 14.11.2023
 1.  Ich werde eine C#-Anwendung programmieren, die alle Primzahlen zwischen 1 und einer vom Benutzer festgelegten Obergrenze findet und ausgibt. Dies umfasst die Eingabe einer Obergrenze durch den Benutzer, das Durchlaufen aller Zahlen von 2 bis zur Obergrenze und die Überprüfung, ob jede Zahl eine Primzahl ist. Gefundene Primzahlen werde ich ausgeben.
 2.  Nachdem ich erfolgreich Primzahlen gefunden habe, werde ich meiner Anwendung die Fähigkeit hinzufügen, die Primfaktorzerlegung für eine vom Benutzer eingegebene Zahl zu berechnen. Dies erfordert das Identifizieren der Primfaktoren einer Zahl und das Ausgeben dieser Faktoren.
-3.  Um die Benutzerfreundlichkeit meiner Anwendung zu erhöhen, werde ich eine einfache Benutzeroberfläche hinzufügen. Dies ermöglicht es Benutzern, die Obergrenze für die Primzahlen und die zu zerlegende Zahl interaktiv einzugeben. Die Ausgabe wird in einem ansprechenden Format angezeigt.
+3. An dem Arbeitspaket 162 weiterschaffen und die gegebenen Aufgaben abschliessen.
