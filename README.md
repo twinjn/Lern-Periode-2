@@ -40,3 +40,11 @@ Arbeitspakete für 21.11.2023
 1.  Erstellung eines einfachen Quizspiels in C#, das dem Benutzer Fragen stellt und die Antworten bewertet.
 2.  Implementierung von Punktevergabe und Feedback für den Benutzer basierend auf seinen Quizantworten.
 3.  An dem Modul 162 weiterarbeiten.
+
+Reflexion
+Erfolgreicher Tag: Quizspiel in C# entwickelt, Punktevergabe integriert. Auch am Modul 162 gearbeitet, effizientes Arbeiten an verschiedenen Aufgaben. Fortschritte motivieren für kommende Herausforderungen.
+
+Arbeitspakete für 28.11.2023
+1.  Vertiefung der C#-Kenntnisse: Entwicklung komplexerer Funktionen im Quizspiel.
+2.  Verbesserung der Benutzerinteraktion: Optimierung von Oberflächen und Integration neuer Features.
+3.  An dem Modul 162 weiterarbeiten.
