@@ -48,3 +48,17 @@ Arbeitspakete für 28.11.2023
 1.  Vertiefung der C#-Kenntnisse: Entwicklung komplexerer Funktionen im Quizspiel.
 2.  Verbesserung der Benutzerinteraktion: Optimierung von Oberflächen und Integration neuer Features.
 3.  An dem Modul 162 weiterarbeiten.
+
+Reflexion:
+
+Die Vertiefung der C#-Kenntnisse ermöglichte eine effizientere Entwicklung im Quizspiel. Die Optimierung der Benutzerinteraktion verbesserte die Anwenderfreundlichkeit.
+
+Neue Arbeitspakete für den 05.12.2023:
+
+1. Snake-Spiel:
+
+Erstellen Sie ein Spielfeld, auf dem sich eine Schlange bewegen kann.
+Implementieren Sie die Steuerung der Schlange über die Pfeiltasten.
+Fügen Sie ein "Essen" hinzu, das die Schlange verlängert, und implementieren Sie die Kollisionserkennung.
+2. An dem Modul 162 weiterarbeiten.
+3.
