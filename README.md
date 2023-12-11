@@ -61,4 +61,23 @@ Erstellen Sie ein Spielfeld, auf dem sich eine Schlange bewegen kann.
 Implementieren Sie die Steuerung der Schlange über die Pfeiltasten.
 Fügen Sie ein "Essen" hinzu, das die Schlange verlängert, und implementieren Sie die Kollisionserkennung.
 2. An dem Modul 162 weiterarbeiten.
-3.
+
+Arbeitspakete bis 19.12.2023:
+
+1. **C# Vertiefung:**
+   - Implementierung einer einfachen Funktion in C#, die die Quersumme einer eingegebenen Zahl berechnet.
+   - Einführung in Methoden, Parameter und Rückgabewerte in C#.
+   - Praktische Übungen zur Anwendung der neuen Konzepte.
+
+2. **Modul 117:**
+   - Vertiefung der bisherigen Lektionen im Modul 117.
+   - Fokussierung auf fortgeschrittene Themen wie Arrays, Schleifen und Methoden.
+   - Lösen von Übungsaufgaben zur Festigung des Verständnisses.
+
+3. **Erweitertes Quizspiel:**
+   - Verbesserung des bestehenden Quizspiels durch Hinzufügen mehrerer Fragen und Auswertung der Gesamtpunktzahl.
+   - Integration von Schleifen für eine wiederholte Quizdurchführung.
+   - Implementierung von Methoden, um den Code besser zu strukturieren.
+
+D
+
