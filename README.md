@@ -79,5 +79,8 @@ Arbeitspakete bis 19.12.2023:
    - Integration von Schleifen für eine wiederholte Quizdurchführung.
    - Implementierung von Methoden, um den Code besser zu strukturieren.
 
-D
+Schlussreflexion
 
+In meinem zweiten Projekt zur "Einfachen C# Spieleentwicklung" habe ich bedeutende Fortschritte erzielt. Positiv verliefen die ersten Schritte mit der Wiederholung grundlegender C#-Konzepte und der Auswahl sowie Umsetzung des Spiels Tic-Tac-Toe. Dabei konnte ich meine Kenntnisse in Algorithmen und Programmierung vertiefen. Das Video über Visual Studio ermöglichte mir einen effizienten Einstieg in die Entwicklungsumgebung. Die Umsetzung einer Anwendung zur Primzahlfindung und Primfaktorzerlegung erweiterte mein Verständnis für komplexe Problemlösungen.
+
+In Bezug auf Herausforderungen hatte ich zeitweise Schwierigkeiten, alle geplanten Arbeitspakete zu erfüllen. Trotzdem konnte ich durch klare Zielsetzungen und strukturiertes Arbeiten erfolgreiche Ergebnisse erzielen. Für die Zukunft plane ich, meine Fähigkeiten weiter zu vertiefen, insbesondere durch die Entwicklung eines Snake-Spiels und die Vertiefung von C#-Konzepten.
